@@ -4,14 +4,10 @@
 
 - pkg install python
 
-- pkg install python2
-
-- pip install mechanize
-
-- pip install requests
-
 - pkg install git
 
-- git clone https://github.com/Darkhorse23/A-pkg.git
+- cd A-pkg
 
-- python azak2.py
+- git clone https://github.com/PaNdAxAk/A-pkg
+
+- python apkg.py
